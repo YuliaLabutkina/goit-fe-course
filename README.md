@@ -1,1 +1,1 @@
-# module-01-02
+# goit-fe-course
